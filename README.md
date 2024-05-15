@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning how to write spark-jobs on python for learning Big Data 
 <!--
 **RedPepper77/RedPepper77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
